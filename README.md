@@ -31,7 +31,6 @@ Program regularnie zapisuje najlepsze rozwiązanie co 5 minut oraz na samym koń
 ```bash
 .
 ├── decompose_k561.py              # Główny kod programu
-├── Rozklad_K561.exe               # Plik wykonywalny (opcjonalny)
 └── README.md
 
 
